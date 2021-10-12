@@ -1,1 +1,3 @@
-class Divide{}
+class Divide{
+	int a;
+}
